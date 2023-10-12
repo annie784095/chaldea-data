@@ -261,7 +261,7 @@
   "Uオルガマリークエスト": {
     "JP": null,
     "CN": "U奥尔加玛丽关卡",
-    "TW": "U奧爾嘉瑪麗关卡",
+    "TW": "U奧爾嘉瑪麗關卡",
     "NA": "U-Olga Marie Quest",
     "KR": null
   },
@@ -359,7 +359,7 @@
   "「Fate/Grand Carnival 2nd Season」Blu-ray&DVD発売記念クエスト": {
     "JP": null,
     "CN": "寒露纪念关卡",
-    "TW": "寒露紀念任務",
+    "TW": "「Fate/Grand Carnival 2nd Season」特別紀念活動",
     "NA": "Fate/Grand Carnival Recollection Quest",
     "KR": null
   },
@@ -1416,7 +1416,7 @@
   "メイン・インタールード\n非霊長生存圏 ツングースカ・サンクチュアリ": {
     "JP": null,
     "CN": "主线物语\n非灵长生存圈 通古斯卡·圣域",
-    "TW": "主線物語\n非靈長生存圈 通古斯庇護所",
+    "TW": "主線物語\n非靈長生存圈 通古斯‧聖域",
     "NA": "Main Interlude\nNon-Prime Species Biosphere, Tunguska Sanctuary",
     "KR": "메인 인터루드\n비영장생존권 퉁구스카 생추어리"
   },
@@ -2522,7 +2522,7 @@
   "非霊長生存圏 ツングースカ・サンクチュアリ": {
     "JP": null,
     "CN": "非灵长生存圈 通古斯卡·圣域",
-    "TW": "非靈長生存圈 通古斯庇護所",
+    "TW": "非靈長生存圈 通古斯‧聖域",
     "NA": "Non-Prime Species Biosphere, Tunguska",
     "KR": "비영장생존권 퉁구스카 생추어리"
   },
