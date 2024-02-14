@@ -9438,21 +9438,21 @@
   "月陰の縁 A": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "月陰之緣 A",
     "NA": "Destiny Under the Moonshade A",
     "KR": null
   },
   "月陰の縁 B": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "月陰之緣 B",
     "NA": "Destiny Under the Moonshade B",
     "KR": null
   },
   "月陰の縁 EX": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "月陰之緣 EX",
     "NA": "Destiny Under the Moonshade EX",
     "KR": null
   },
@@ -9760,7 +9760,7 @@
   "武蔵うどんのドロップ獲得数アップ": {
     "JP": null,
     "CN": "武藏乌冬的掉落获得数提升",
-    "TW": null,
+    "TW": "武藏烏冬的掉落獲得數提升",
     "NA": "Increase amount of Musashi Udon per drop",
     "KR": null
   },
@@ -10173,7 +10173,7 @@
   "江戸むすびのドロップ獲得数アップ": {
     "JP": null,
     "CN": "江户饭团的掉落获得数提升",
-    "TW": null,
+    "TW": "江戶飯糰的掉落獲得數提升",
     "NA": "Increase amount of Edo Rice Ball per drop",
     "KR": null
   },
